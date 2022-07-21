@@ -4,6 +4,9 @@ GANs can generate new data instances that are similar to your training data. GAN
 
 [![Alt text](https://github.com/Mr-TalhaIlyas/Generative-Adversarial-Networks-GANs/blob/main/mq1.jpg)](https://www.youtube.com/watch?v=HLmQur8XEg8&ab_channel=TalhaIlyas)
 
+## GAN operation and failure modes
+
+![Alt text](https://github.com/Mr-TalhaIlyas/Generative-Adversarial-Networks-GANs/blob/main/modes.jpg)
 
 ### Resources
 
